@@ -1,0 +1,15 @@
+/* style for table */
+
+table{
+	
+	width:60%;
+	background-color:#33cc33;
+}
+
+td, th{
+	
+	border:1px solid black;
+	
+} 
+	
+	
